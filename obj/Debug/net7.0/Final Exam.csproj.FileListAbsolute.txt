@@ -1,0 +1,15 @@
+C:\Users\acer\OneDrive\Desktop\Personal Folder\School Ebooks\C C++ C#\C#\Final Exam\bin\Debug\net7.0\Final Exam.exe
+C:\Users\acer\OneDrive\Desktop\Personal Folder\School Ebooks\C C++ C#\C#\Final Exam\bin\Debug\net7.0\Final Exam.deps.json
+C:\Users\acer\OneDrive\Desktop\Personal Folder\School Ebooks\C C++ C#\C#\Final Exam\bin\Debug\net7.0\Final Exam.runtimeconfig.json
+C:\Users\acer\OneDrive\Desktop\Personal Folder\School Ebooks\C C++ C#\C#\Final Exam\bin\Debug\net7.0\Final Exam.dll
+C:\Users\acer\OneDrive\Desktop\Personal Folder\School Ebooks\C C++ C#\C#\Final Exam\bin\Debug\net7.0\Final Exam.pdb
+C:\Users\acer\OneDrive\Desktop\Personal Folder\School Ebooks\C C++ C#\C#\Final Exam\obj\Debug\net7.0\Final Exam.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\Personal Folder\School Ebooks\C C++ C#\C#\Final Exam\obj\Debug\net7.0\Final Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\Desktop\Personal Folder\School Ebooks\C C++ C#\C#\Final Exam\obj\Debug\net7.0\Final Exam.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\Desktop\Personal Folder\School Ebooks\C C++ C#\C#\Final Exam\obj\Debug\net7.0\Final Exam.AssemblyInfo.cs
+C:\Users\acer\OneDrive\Desktop\Personal Folder\School Ebooks\C C++ C#\C#\Final Exam\obj\Debug\net7.0\Final Exam.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\Personal Folder\School Ebooks\C C++ C#\C#\Final Exam\obj\Debug\net7.0\Final Exam.dll
+C:\Users\acer\OneDrive\Desktop\Personal Folder\School Ebooks\C C++ C#\C#\Final Exam\obj\Debug\net7.0\refint\Final Exam.dll
+C:\Users\acer\OneDrive\Desktop\Personal Folder\School Ebooks\C C++ C#\C#\Final Exam\obj\Debug\net7.0\Final Exam.pdb
+C:\Users\acer\OneDrive\Desktop\Personal Folder\School Ebooks\C C++ C#\C#\Final Exam\obj\Debug\net7.0\Final Exam.genruntimeconfig.cache
+C:\Users\acer\OneDrive\Desktop\Personal Folder\School Ebooks\C C++ C#\C#\Final Exam\obj\Debug\net7.0\ref\Final Exam.dll
